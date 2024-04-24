@@ -51,5 +51,23 @@ La Gramola Musical es un juego desarrollado en Unity que simula la experiencia d
 
 La Gramola Musical es una experiencia interactiva que combina la nostalgia de un reproductor de música clásico con la conveniencia de los controles modernos. Con una interfaz intuitiva, controles completos y características avanzadas como la selección aleatoria de canciones y el historial de reproducción, este juego ofrece una experiencia musical inmersiva para todos los jugadores.
 
-¡Prepárate para disfrutar de tus canciones favoritas en un entorno virtual único con la Gramola Musical!
+
+&nbsp;
+## Créditos
+
+- **Desarrollador**: [Carlos Valencia Sánchez]
+- **Diseñador de Juego**: [Carlos Valencia Sánchez]
+- **Artista Gráfico**: [Carlos Valencia Sánchez]
+
+&nbsp;
+## Contacto
+
+Para obtener soporte técnico, reportar errores o proporcionar comentarios, no dudes en contactar.
+
+¡Prepárate para disfrutar de tus canciones favoritas en un entorno virtual único con la Gramola!
+
+---
+Este documento proporciona una visión general del juego, incluyendo sus características, tecnología utilizada, requisitos del sistema, instrucciones de juego y créditos. Para obtener más información detallada sobre el desarrollo y funcionamiento del juego, consulta la documentación interna o comunícate con el desarrollador.
+
+
 
